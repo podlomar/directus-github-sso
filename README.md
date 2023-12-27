@@ -1,2 +1,3 @@
-# directus-github-sso
-Test repository for Directus SSO with GitHub
+# Directus GitHub SSO
+
+This repo contains a minimal setup to reproduce an issue with GitHub SSO.
